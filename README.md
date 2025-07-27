@@ -108,7 +108,7 @@ Welcome to SweetRice - Thank your for install SweetRice as your website manageme
 # Find Exploit For Sweetrice 
 
 ![image alt]()
-![image alt]()
+![image alt](https://github.com/dhruva127/LazyAdmin--TryHackMe-Challenge-Walkthrough/blob/98e3abf746706c6e61ef8ea015e1a27bed1c6eaa/Backup.webp)
 
 1. Backup Disclosure 
  You can access to all mysql backup and download them from this directory
