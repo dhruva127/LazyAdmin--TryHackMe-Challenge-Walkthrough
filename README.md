@@ -1,5 +1,5 @@
 # LazyAdmin--TryHackMe-Challenge-Walkthrough
-LazyAdmin -TryHackMe Challenge Walkthrough All content &amp; Tools Show in Video are just for Educational Purpose Already Available on internet    
+LazyAdmin -TryHackMe Challenge Walkthrough All content &amp; Tools Show in Video are just for Educational Purpose     
 
 
 Easy linux machine to practice your skills
